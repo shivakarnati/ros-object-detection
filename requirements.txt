@@ -1,0 +1,4 @@
+supervision== 0.18.0
+ultralytics
+git+https://github.com/facebookresearch/detectron2.git
+mediapipe

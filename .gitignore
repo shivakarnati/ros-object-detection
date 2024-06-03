@@ -1,0 +1,12 @@
+.venv
+detections.png
+test1_dect.avi
+test2_dect.avi
+test3_dect.avi
+yolov8n.pt
+object_counting_output.avi
+build
+install
+log
+recording
+
