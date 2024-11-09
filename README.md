@@ -44,4 +44,4 @@ source ./install/setup.bash
 ### 5. Run the object detection node with the following command:
 ```bash
 ros2 run object_det object_det_node --ros-args -p image_subscription:="/oakd/rgb/preview/image_raw"
-``
+```
